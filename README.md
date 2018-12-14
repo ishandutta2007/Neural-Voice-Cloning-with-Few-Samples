@@ -9,3 +9,10 @@ The repository is only partially complete. The future commits will happen on htt
 
 The implementation of deep voice 3 was done from the following repository:
 https://github.com/r9y9/deepvoice3_pytorch
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
